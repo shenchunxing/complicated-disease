@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d190a9f-72e5-48d5-8120-ebc2137dacef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/p3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/p4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter配置.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php环境配置.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +69,7 @@
       <workItem from="1676548435057" duration="322000" />
       <workItem from="1677199619110" duration="50000" />
       <workItem from="1677199731973" duration="763000" />
+      <workItem from="1678101693920" duration="21000" />
     </task>
     <servers />
   </component>
